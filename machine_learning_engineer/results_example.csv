@@ -1,0 +1,11 @@
+,timestamp,image_path,result
+0,2020-03-16 11:45:12.139823,../../machine_learning_engineer/raw_images/cologne-1561569287504-img0000361.jpg,"[('n06596364', 'comic_book', 0.54936326), ('n04418357', 'theater_curtain', 0.08670117), ('n04296562', 'stage', 0.055190615)]"
+1,2020-03-16 11:45:14.331820,../../machine_learning_engineer/raw_images/cologne-1561569287504-img0000301 (1).jpg,"[('n06596364', 'comic_book', 0.5075848), ('n04418357', 'theater_curtain', 0.08698788), ('n04296562', 'stage', 0.045813385)]"
+2,2020-03-16 11:45:16.738526,../../machine_learning_engineer/raw_images/cologne-1561569287504-img0000311 (1).jpg,"[('n06596364', 'comic_book', 0.45129216), ('n04418357', 'theater_curtain', 0.10236627), ('n04296562', 'stage', 0.08434733)]"
+3,2020-03-16 11:45:19.211014,../../machine_learning_engineer/raw_images/cologne-1561569287504-img0001241.jpg,"[('n04591157', 'Windsor_tie', 0.447304), ('n06359193', 'web_site', 0.15703584), ('n04350905', 'suit', 0.11381341)]"
+4,2020-03-16 11:45:21.458028,../../machine_learning_engineer/raw_images/cologne-1561569287504-img0000611.jpg,"[('n09835506', 'ballplayer', 0.71084183), ('n04149813', 'scoreboard', 0.14362817), ('n03888605', 'parallel_bars', 0.049674924)]"
+5,2020-03-16 11:45:24.087100,../../machine_learning_engineer/raw_images/cologne-1561569287504-img0000981.jpg,"[('n03877472', 'pajama', 0.4481934), ('n03617480', 'kimono', 0.11379056), ('n03595614', 'jersey', 0.02367495)]"
+6,2020-03-16 11:45:26.357908,../../machine_learning_engineer/raw_images/cologne-1561569287504-img0000771.jpg,"[('n04296562', 'stage', 0.40079135), ('n03535780', 'horizontal_bar', 0.09241271), ('n03976657', 'pole', 0.09178454)]"
+7,2020-03-16 11:45:28.886505,../../machine_learning_engineer/raw_images/cologne-1561569287504-img0000201.jpg,"[('n06596364', 'comic_book', 0.5315613), ('n04418357', 'theater_curtain', 0.10405654), ('n04296562', 'stage', 0.052176315)]"
+8,2020-03-16 11:45:31.130015,../../machine_learning_engineer/raw_images/cologne-1561569287504-img0001081.jpg,"[('n04149813', 'scoreboard', 0.3929765), ('n09835506', 'ballplayer', 0.14543764), ('n04540053', 'volleyball', 0.09267044)]"
+9,2020-03-16 11:45:33.395514,../../machine_learning_engineer/raw_images/cologne-1561569287504-img0000821.jpg,"[('n04254680', 'soccer_ball', 0.21605541), ('n03888257', 'parachute', 0.15569903), ('n04456115', 'torch', 0.13946393)]"
